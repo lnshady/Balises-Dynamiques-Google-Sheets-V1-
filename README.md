@@ -2,6 +2,10 @@
 
 An ultra-lightweight WordPress plugin to synchronize and display dynamic data (text, prices, images) directly from a published Google Sheets CSV file using an optimized shortcode.
 
+
+<img width="1341" height="228" alt="wordpress plugin" src="https://github.com/user-attachments/assets/898a2b62-3207-4a13-ae1e-9b39dbbe188b" />
+
+
 ## Features
 - Smart Global Cache: Uses native WordPress transients to prevent Cache Stampede.
 - Robust CSV Parsing: Full implementation of str_getcsv to handle complex cell structures and line breaks.
@@ -10,13 +14,14 @@ An ultra-lightweight WordPress plugin to synchronize and display dynamic data (t
 ## Visual Demo
 
 1. Google Sheets Data Source: Organize your content (e.g., Dishes, Descriptions, Prices).
-   ![Google Sheets Source](assets/Google%20sheets.png)
+   ![Google Sheets Source]<img width="857" height="242" alt="Google sheets" src="https://github.com/user-attachments/assets/efd5726e-2c47-451f-9706-9e9364ecb0c5" />
 
 2. Elementor / WordPress Integration: Drop the shortcode directly into your layouts (e.g., [menu row="2" col="1"]).
-   ![Shortcode Integration](assets/plug%20in%20short%20code.png)
+   ![Shortcode Integration]]<img width="1316" height="291" alt="plug in short code" src="https://github.com/user-attachments/assets/60032043-0af2-483f-8e1b-d81a5d8d5fc9" />
+
 
 3. Page Architecture: Perfect for managing structured layouts, localized menus, or dedicated sections (Menus, Allergens, Wine lists).
-   ![WordPress Pages Overview](assets/trad%20menu%20allerg.png)
+   ![WordPress Pages Overview
 
 ## Usage
 
