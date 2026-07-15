@@ -1,0 +1,13 @@
+# Archives — use GitHub Releases instead of committing build artifacts
+*.tar
+*.zip
+*.tar.gz
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+
+# WordPress
+wp-content/uploads/
+wp-config.php
